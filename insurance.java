@@ -6,6 +6,6 @@ public class  insursncedemo{
 uhjujhu59tu 04biv
   wefniwaeofaywuv
   kbwe8yrawbl
-  star
-  max
-  ergo
+  star  insursnce
+  max insursnce
+  ergo  insursnce
